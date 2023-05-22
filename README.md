@@ -13,7 +13,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
