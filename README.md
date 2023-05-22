@@ -27,16 +27,16 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop
+#### Desktop
 ![Screenshot of desktop summary component](./screenshot-desktop.png)
 
-Mobile
+#### Mobile
 ![Screenshot of mobile summary component](./screenshot-mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/semajthomasprimm/results-summary-component-main](https://github.com/semajthomasprimm/results-summary-component-main)
+- Live Site URL: [https://results-summary-component-sp.netlify.app/](https://results-summary-component-sp.netlify.app/)
 
 ## My process
 
