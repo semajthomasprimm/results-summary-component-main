@@ -73,7 +73,7 @@ document.getElementById("reactionImg").src = data[0].icon
 ### Useful resources
 
 - [Hubspot CSS Border Radius Circle Tutorial](https://blog.hubspot.com/website/css-border-radius-circle) - This helped me for designing the circle for the Result score. I really liked this pattern and will use it going forward.
-- [w3cschools](https://www.w3schools.com) - This is an useful site which helped me understand HTML DOM properties. I'd recommend it to anyone still learning this concept.
+- [w3schools](https://www.w3schools.com) - This is an useful site which helped me understand HTML DOM properties. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
